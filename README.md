@@ -5,13 +5,11 @@ This program is a mobile app that connects people based on their interests in ga
 
 The purpose of writing this software was to be able to encourage those who enjoy playing board games and small sports to connect with more people and to get out of their comfort zone. I also wanted to learn more about how to connect a mobile app to Firebase.  
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running, a walkthrough of the code, and a view of the cloud database.}
-
-[Software Demo Video]https://vimeo.com/634159818/b6ba7912f0
+[Software Demo Video]
+https://vimeo.com/634159818/b6ba7912f0
 
 # Cloud Database
 
-{Describe the cloud database you are using.}
 I am using Google Firebase's Realtime database
 
 {Describe the structure of the database that you created.}
@@ -26,7 +24,6 @@ I used REact NAtive and the expo satus bar library. This is an app that allows m
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [RNFirebase.io] https://rnfirebase.io/database/usage
 
 # Future Work
